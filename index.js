@@ -1,7 +1,7 @@
-const append = ["Pet1", "Pet2", "Pet3"];
-const prepend = ["Pet1", "Pet2", "Pet3"];
-const removeLast = ["Pet1", "Pet2", "Pet3"];
-const removeFirst = ["Pet1", "Pet2", "Pet3"];
+const append = ["Pet1", "Otis", "Garfield"];
+const prepend = ["Pet1", "Otis", "Garfield"];
+const removeLast = ["Pet1", "Otis", "Garfield"];
+const removeFirst = ["Pet1", "Otis", "Garfield"];
 
 append.push("Odie");
 prepend.unshift("Odie");
